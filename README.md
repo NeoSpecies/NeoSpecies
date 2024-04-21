@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="banner.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100%" src="banner.jpg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">去勇敢的探索未知！</p>
 </p>
