@@ -57,4 +57,4 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">喜欢这个项目？请考虑<a href="https://www.paypal.me/anuraghazra">捐赠</a>来帮助它完善！
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoSpecies)](https://github.com/anuraghazra/github-readme-stats)
