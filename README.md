@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100%" src="banner.jpg" align="center" alt="banner" />
 </p>
+<br>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -133,12 +134,6 @@ Here are some ideas to get you started:
 
 # focus on my data. 👋
 <br>
-<a href="https://github.com/NeoSpecies/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NeoSpecies&card_width=200" />
-</a>
-<a href="https://github.com/NeoSpecies/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeoSpecies&layout=compact&langs_count=8&card_width=200" />
-</a>
 <a href="https://github.com/NeoSpecies/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NeoSpecies" />
 </a>
