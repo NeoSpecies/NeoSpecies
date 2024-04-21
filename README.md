@@ -111,9 +111,6 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
 
 # You can contact me through the following ways. 👋
 
