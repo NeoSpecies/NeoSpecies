@@ -83,7 +83,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-### Languages and Tools:
+<h3> 🎓Languages and Tools:</h3>
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
@@ -98,7 +98,7 @@
 </div>
 <br/>
 
-### Machine:
+<h3> 💻Machine:</h3>
 <div display="flex">
   <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
