@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
+ <p align="center">去勇敢的探索未知！</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -81,6 +81,13 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+- 💻 &nbsp;
+  ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=STM32)
+  ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=ESP32&logoColor=007396)
+  ![ESP8266](https://img.shields.io/badge/-ESP8266-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![HI-LINK](https://img.shields.io/badge/-HILINK-333333?style=flat&logo=HILINK&logoColor=00599C)
+  ![wit-motion (Statistics)](https://img.shields.io/badge/-witMotion-333333?style=flat&logo=wit-motion&logoColor=276DC3)
+  ![ashining](https://img.shields.io/badge/-ashining-333333?style=flat&logo=ashining)
 
 <br/>
 <h3> 🎓Languages and Tools:</h3>
