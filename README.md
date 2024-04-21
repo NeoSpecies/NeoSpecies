@@ -57,4 +57,4 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoSpecies)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoSpecies)
