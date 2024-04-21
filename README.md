@@ -55,7 +55,8 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C/C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![PHP (Statistics)](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=276DC3)
   ![GOLANG](https://img.shields.io/badge/-GO-333333?style=flat&logo=GO)
 - 🌐 &nbsp;
