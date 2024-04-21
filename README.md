@@ -40,7 +40,7 @@
   </p>
 </p>
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Richyard</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -55,8 +55,9 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![C/C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![PHP (Statistics)](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=276DC3)
+  ![golang](https://img.shields.io/badge/-golang-333333?style=flat&logo=golang)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -81,31 +82,6 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
-
-# Hi, I'm Vivek Chauhan 👋
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
-<!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
-<br/>
-
 ### Languages and Tools:
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
@@ -128,6 +104,31 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
+<p>
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+</p>
+
+# You can contact me through the following ways. 👋
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
+<!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+Here are some ideas to get you started:
+- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
+- 🔭 I’m currently working on ... Not working
+- 🌱 I’m currently learning ... Vuejs and Python
+- 👯 I’m looking to collaborate on ... Any of project
+- 🤔 I’m looking for help with ... Vuejs 
+- 💬 Ask me about ... What ever.... :laughing:
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... Play PUBG when get bored
+<br/>
+
+
 <br>
 
 ![NeoSpecies's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoSpecies)
