@@ -1,6 +1,5 @@
 <p align="center">
  <img width="100%" src="banner.jpg" align="center" alt="banner" />
- <p align="center">去勇敢的探索未知！</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
