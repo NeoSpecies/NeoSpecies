@@ -121,6 +121,22 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+# If you consider supporting me... 👋
+<div align="center">
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="doc/paypal.jpg" alt="PayPal打赏二维码" width="100">
+    <p>PayPal打赏二维码</p>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="doc/alipay.png" alt="支付宝打赏二维码" width="100">
+    <p>支付宝打赏二维码</p>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="doc/wechatpay.jpg" alt="微信打赏二维码" width="100">
+    <p>微信打赏二维码</p>
+  </div>
+</div>
+
 Here are some ideas to get you started:
 - :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
 - 🔭 I’m currently working on ... Not working
