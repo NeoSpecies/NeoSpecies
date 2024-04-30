@@ -124,15 +124,15 @@
 # If you consider supporting me... 👋
 <div align="center">
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="doc/paypal.jpg" alt="PayPal打赏二维码" width="100">
+    <img src="paypal.jpg" alt="PayPal打赏二维码" width="100">
     <p>PayPal打赏二维码</p>
   </div>
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="doc/alipay.png" alt="支付宝打赏二维码" width="100">
+    <img src="alipay.png" alt="支付宝打赏二维码" width="100">
     <p>支付宝打赏二维码</p>
   </div>
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="doc/wechatpay.jpg" alt="微信打赏二维码" width="100">
+    <img src="wechatpay.jpg" alt="微信打赏二维码" width="100">
     <p>微信打赏二维码</p>
   </div>
 </div>
