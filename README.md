@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cogito/">LinkedIn</a>
   ·
-  <a href="mailto:epochcentral@gmail.com">Email</a>
+  <a href="mailto:neospecies@outlook.com">Email</a>
   ·
   <a href="https://www.neospecies.ai">Website/Portfolio</a>
   ·
